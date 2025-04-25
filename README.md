@@ -4,10 +4,10 @@
 
 # 🚀 OOP Assignment 2
 
-This repository features **ten** professional-grade Java solutions demonstrating core OOP concepts—each in its own folder, accompanied by flowcharts and UML class diagrams documenting design and logic.  ([jehna/readme-best-practices - GitHub](https://github.com/jehna/readme-best-practices?utm_source=chatgpt.com))
+This repository features **ten** professional-grade Java solutions demonstrating core OOP concepts—each in its own folder, accompanied by flowcharts and UML class diagrams documenting design and logic.  
 
 <p align="center">
-  <a href="https://github.com/UsamaMatrix/Assignment-02-GitHub"><img src="https://img.shields.io/badge/Repository-OOP_Assignment_2-blue.svg" alt="Repository"></a>
+  <a href="https://github.com/UsamaMatrix/JAVA-OOP"><img src="https://img.shields.io/badge/Repository-OOP_Assignment_2-blue.svg" alt="Repository"></a>
   <a href="https://www.java.com"><img src="https://img.shields.io/badge/Language-Java-orange.svg" alt="Language: Java"></a>
   <a href="https://unlicense.org"><img src="https://img.shields.io/badge/License-Unlicense-lightgrey.svg" alt="License: Unlicense"></a>
 </p>
@@ -16,10 +16,9 @@ This repository features **ten** professional-grade Java solutions demonstrating
 
 ## 📋 Overview
 
-- **Write READMEs first:** Clarify project goals before coding to ensure alignment with user needs  ([Write Your README Before Your Code](https://www.wired.com/2010/08/write-your-readme-before-your-code?utm_source=chatgpt.com))  
-- **Concise & clear:** Use plain language and short paragraphs for quick comprehension  ([Creating a Powerful README: Best Practices for Your Project](https://medium.com/%40berastis/creating-a-powerful-readme-best-practices-for-your-project-f974a1e69a51?utm_source=chatgpt.com))  
-- **Visual engagement:** Embed GIFs, tables, and badges to guide readers  ([Best Practices For An Eye Catching GitHub Readme - Hatica](https://www.hatica.io/blog/best-practices-for-github-readme/?utm_source=chatgpt.com))  
-
+- **Write READMEs first:** Clarify project goals before coding to ensure alignment with user needs  
+- **Concise & clear:** Use plain language and short paragraphs for quick comprehension   
+- **Visual engagement:** Embed GIFs, tables, and badges to guide readers 
 ---
 
 ## 📂 Repository Structure
@@ -37,7 +36,7 @@ This repository features **ten** professional-grade Java solutions demonstrating
 | **Problem09**| HourlyEmployee with overtime pay logic                     | `Employee.java`<br>`HourlyEmployeeV2.java`<br>`Problem9HourlyEmployeeTest.java`             |
 | **Problem10**| 2D/3D coordinate classes with overridden distance methods  | `Coordinate.java`<br>`ExtendedCoordinate.java`<br>`TestCoordinates.java`                    |
 
-*(Each `public class` file matches its filename—compile and run with `javac *.java` & `java <MainClass>`.)*  ([About READMEs - GitHub Docs](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes?utm_source=chatgpt.com))
+*(Each `public class` file matches its filename—compile and run with `javac *.java` & `java <MainClass>`.)*  
 
 ---
 
@@ -77,7 +76,7 @@ javac *.java  # basic syntax reference  ([Basic writing and formatting syntax - 
 java TestCoordinates
 ```
 
-*(Replace `Problem10`/`TestCoordinates` with your target folder and main class.)*  ([How do you write your README.md or Docs for your Git repo?](https://www.reddit.com/r/webdev/comments/18sozpf/how_do_you_write_your_readmemd_or_docs_for_your/?utm_source=chatgpt.com))
+*(Replace `Problem10`/`TestCoordinates` with your target folder and main class.)*  
 
 ---
 
@@ -92,9 +91,15 @@ java TestCoordinates
 
 ## 👤 Author
 
-**UsamaMatrix**  
-🔗 [github.com/UsamaMatrix](https://github.com/UsamaMatrix)  ([README Best Practices - Tilburg Science Hub](https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/?utm_source=chatgpt.com))
-
+### Muhammad Usama <p align="center">
+  <a href="https://github.com/UsamaMatrix">
+    <img src="https://img.shields.io/badge/GitHub-UsamaMatrix-black?logo=github&style=flat-square" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/UsamaMatrix">
+    <img src="https://img.shields.io/badge/LinkedIn-UsamaMatrix-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  </a>
+</p>
+ 
 ---
 
 ```
