@@ -63,14 +63,14 @@ Follow these steps to explore any problem:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/UsamaMatrix/Assignment-02-GitHub.git  # quick start template  ([readme-best-practices/README-default.md at master - GitHub](https://github.com/jehna/readme-best-practices/blob/master/README-default.md?utm_source=chatgpt.com))
+git clone https://github.com/UsamaMatrix/Assignment-02-GitHub.git  # quick start template  
 cd Assignment-02-GitHub
 
 # 2. Enter a problem folder (e.g., Problem10)
 cd Problem10
 
 # 3. Compile all Java files
-javac *.java  # basic syntax reference  ([Basic writing and formatting syntax - GitHub Docs](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com))
+javac *.java  # basic syntax reference  
 
 # 4. Run the main class
 java TestCoordinates
