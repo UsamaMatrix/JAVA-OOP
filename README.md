@@ -103,4 +103,4 @@ java TestCoordinates
 ---
 
 ```
-*Thank you for reviewing! Happy coding!* 🚀
+Thank you for reviewing! Happy coding! 🚀
